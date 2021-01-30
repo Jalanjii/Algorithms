@@ -6,11 +6,17 @@ Accepted Solutions for problems on https://ejudge.kreosoft.ru/en while I was a S
 Some more resources:
 
 An upgrade of ejudge above https://code.hits.university/Identity/Account/Login
+
 One of the best introductions https://cses.fi/problemset/list
+
 This is by far the best course I found on Graph theory, which is my favourite of all mathematics! https://www.cs.rpi.edu/~slotag/classes/SP17/
+
 The best book on algorithms (Ok, Yes, it beats CLRS!) http://jeffe.cs.illinois.edu/teaching/algorithms/
+
 A good list https://codeforces.com/blog/entry/23054
+
 Very nice for your next Google interview https://leetcode.com/
+
 If you want to learn the definition of "Challenge" https://codeforces.com/
 
 I hope you find them interesting!

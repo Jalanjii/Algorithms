@@ -5,7 +5,7 @@ Accepted Solutions for problems on https://ejudge.kreosoft.ru/en while I was a S
 
 Some more resources:
 
-An upgrade of ejudge above https://code.hits.university/Identity/Account/Login
+An upgrade of ejudge above https://code.hits.university
 
 One of the best introductions https://cses.fi/problemset/list
 

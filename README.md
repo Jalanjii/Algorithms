@@ -25,7 +25,7 @@ If you need an orientation for CS https://ossu.firebaseapp.com/#/curriculum
 
 Really important (Believe me!) https://missing.csail.mit.edu/
 
-This your deep learning course, please take it! https://www.fast.ai/
+This is your deep learning course, please take it! https://www.fast.ai/
 
 A very nice resource on machine learning and data science, at least I am finding it very interesting https://chrisalbon.com/
 

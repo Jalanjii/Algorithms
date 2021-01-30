@@ -9,7 +9,7 @@ An upgrade of ejudge above https://code.hits.university
 
 One of the best introductions https://cses.fi/problemset/list
 
-This is by far the best course I found on Graph theory, which is my favourite of all mathematics! https://www.cs.rpi.edu/~slotag/classes/SP17/
+This is by far the best course I have found on Graph theory, which is my favourite of all mathematics! https://www.cs.rpi.edu/~slotag/classes/SP17/
 
 The best book on algorithms (Ok, Yes, it beats CLRS!) http://jeffe.cs.illinois.edu/teaching/algorithms/
 

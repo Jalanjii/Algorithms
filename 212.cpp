@@ -6,6 +6,8 @@
 
 using namespace std;
 
+/*Warnsdorff's heuristics*/
+
 int x_moves[8] = { 2, 1, -1, -2, -2, -1, 1, 2 };
 int y_moves[8] = { 1, 2, 2, 1, -1, -2, -2, -1 };
 

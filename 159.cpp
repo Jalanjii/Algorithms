@@ -5,7 +5,7 @@
 
 using namespace std;
 
-struct Team_Board { //capturing the team_board data
+struct Team_Board {
 	int index;
 	int no_solved;
 	int penalty;

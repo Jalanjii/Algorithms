@@ -13,7 +13,7 @@ struct Time {
 
 	int hh, mm, ss, cntSecs;
 
-	Time(int cntSecs = 0) : cntSecs(cntSecs) {//user-defined default constructor
+	Time(int cntSecs = 0) : cntSecs(cntSecs) {
 		hh = cntSecs / (60 * 60);
 		mm = (cntSecs - hh * 60 * 60) / 60;
 		ss = cntSecs % 60;

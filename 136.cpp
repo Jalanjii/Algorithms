@@ -26,11 +26,7 @@ void merge(int arr[], int l, int m, int r)
 	k = l; 
 	while (i < n1 && j < n2)
 	{
-		if (L[i] < R[j])//stability guaranteed,
-						 //If two elements are equal, 
-						 //the element on the right will be
-						 //put first in the merged array 
-						 //which changes the original ordering.
+		if (L[i] < R[j])
 		{
 			arr[k] = L[i];
 			i++;

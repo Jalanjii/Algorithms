@@ -17,12 +17,12 @@ The best book on algorithms (Ok, Yes, it beats CLRS!) http://jeffe.cs.illinois.e
 
 A good list https://codeforces.com/blog/entry/23054
 
-Very nice for your next Google interview https://leetcode.com/
+Very important and concise for your next Google interview https://leetcode.com/
 
-If you want to learn the definition of "Challenge" https://codeforces.com/
+If you want to challenge yourself https://codeforces.com/
 
-If you need an orientation for CS https://ossu.firebaseapp.com/#/curriculum
+If you need an orientation for computer science https://ossu.firebaseapp.com/#/curriculum
 
-Really important https://missing.csail.mit.edu/
+Really important, should never be missed! https://missing.csail.mit.edu/
 
-I hope you find them all interesting!
+I hope you find them all helpful & interesting!

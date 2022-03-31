@@ -59,8 +59,4 @@ The problems are grouped under five themes:
     
     Antiplagiarism
 
-6) **Approximate calculus**
-    
-    Optimization problems 
-    
-    Classification problems
+6) **Optimization & Classification**

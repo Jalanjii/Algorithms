@@ -17,7 +17,7 @@ The problems are grouped under five themes:
     
     Arrays 
     
-    Strings and symbols data type 
+    Strings and symbols
     
     Procedures and functions 
     
@@ -29,17 +29,17 @@ The problems are grouped under five themes:
     
     Sorting algorithms 
     
-3) **Dynamics and data structures** 
+3) **Dynamic programming and data structures** 
 
-    Dynamic
+    Dynamic programming
     
-    Structures
+    Data structures structures
     
     Lists
     
 4) **Graphs** 
     
-    Graphs main 
+    Graph representation
     
     Depth and breadth first searches 
 

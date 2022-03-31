@@ -7,14 +7,22 @@ The problems are grouped under several themes. You can get access to the details
 
 The problems are grouped under five themes:
 
-1) Basics of programming
+1) Basics of programming:
+
     Assignment + arithmetics 
+    
     Conditions 
+    
     Loops 
+    
     Arrays 
+    
     Strings and symbols data type 
+    
     Procedures and functions 
+    
     Matrix 
+    
 2) Search and sorting 
 3) Dynamics and data structures 
 4) Graphs 

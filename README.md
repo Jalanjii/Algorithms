@@ -7,7 +7,7 @@ The problems are grouped under several themes. You can get access to the details
 
 The problems are grouped under five themes:
 
-1) Basics of programming:
+1) **Basics of programming**:
 
     Assignment + arithmetics 
     
@@ -23,8 +23,44 @@ The problems are grouped under five themes:
     
     Matrix 
     
-2) Search and sorting 
-3) Dynamics and data structures 
-4) Graphs 
-5) Strings 
-6) Approximate calculus
+2) **Search and sorting**
+
+    Search algorithms 
+    
+    Sorting algorithms 
+    
+3) **Dynamics and data structures** 
+
+    Dynamic
+    
+    Structures
+    
+    Lists
+    
+4) **Graphs** 
+    
+    Graphs main 
+    
+    Depth and breadth first searches 
+
+    Optimal paths in weighted graphs 
+
+    Spanning tree 
+
+    Eulerian and Hamiltonian cycles 
+
+    Complex tasks on graphs
+
+5) **Strings**
+
+    Regular expressions 
+    
+    Finding substring in a string 
+    
+    Antiplagiarism
+
+6) **Approximate calculus**
+    
+    Optimization problems 
+    
+    Classification problems

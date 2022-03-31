@@ -23,7 +23,7 @@ The problems are grouped under six themes:
     
     Matrix 
     
-2) **Search and sorting** (124-145):
+2) **Searching and sorting** (124-145):
 
     Search algorithms 
     

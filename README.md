@@ -7,7 +7,7 @@ The problems are grouped under several themes. You can get access to the details
 
 The problems are grouped under six themes:
 
-1) **Basics of programming**:
+1) **Basics of programming** (1-123): 
 
     Assignment + arithmetics 
     
@@ -23,13 +23,13 @@ The problems are grouped under six themes:
     
     Matrix 
     
-2) **Search and sorting**
+2) **Search and sorting** (124-145):
 
     Search algorithms 
     
     Sorting algorithms 
     
-3) **Dynamic programming and data structures** 
+3) **Dynamic programming and data structures** (146-178):
 
     Dynamic programming
     
@@ -37,7 +37,7 @@ The problems are grouped under six themes:
     
     Lists
     
-4) **Graphs** 
+4) **Graphs** (189-217)
     
     Graph representation
     
@@ -51,7 +51,7 @@ The problems are grouped under six themes:
 
     Complex tasks on graphs
 
-5) **Strings**
+5) **Strings** (218-238):
 
     Regular expressions 
     
@@ -59,4 +59,4 @@ The problems are grouped under six themes:
     
     Antiplagiarism
 
-6) **Optimization & Classification**
+6) **Optimization & Classification** (246-250):
